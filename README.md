@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
-- 👨‍💻 All of my projects are available at [bit.ly/techfrank](bit.ly/techfrank)
+
 
 - 💬 Ask me about **ReactJS, NextJS, Javascript, TailwindCSS**
 
